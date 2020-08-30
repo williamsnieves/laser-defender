@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{CDE8BE3A-BF3B-D464-EBA6-2E2589CA2CE9}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DamageDealer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameSession.cs" Line="24" Column="10" IsPinned="True" />
+      <File FileName="Assets/Scripts/Player.cs" Line="96" Column="35" />
+      <File FileName="Assets/Scripts/Shredder.cs" />
+      <File FileName="Assets/Scripts/EnemyPathing.cs" />
+      <File FileName="Assets/Scripts/WaveConfig.cs" />
+      <File FileName="Assets/Scripts/EnemySpawner.cs" />
+      <File FileName="Assets/Scripts/Enemy.cs" Line="79" Column="64" />
+      <File FileName="Assets/Scripts/BackgroundScroller.cs" />
+      <File FileName="Assets/Scripts/Level.cs" Line="17" Column="53" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="18" Column="33" />
+      <File FileName="Assets/Scripts/ScoreDisplay.cs" Line="4" Column="22" />
+      <File FileName="Assets/Scripts/HealthDisplay.cs" Line="21" Column="6" />
+      <File FileName="Assets/Scripts/DamageDealer.cs" Line="9" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laser defender" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="DamageDealer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b1f9b7ba-98e2-469f-af7f-95af751a1871" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
